@@ -1,0 +1,14 @@
+{
+    "name": "readorium/codeception",
+    "description": "Testing for Readorium",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Steve Juth",
+            "email": "steve.juth@readorium.com"
+        }
+    ],
+    "require": {
+        "codeception/codeception": "*"
+    }
+}
