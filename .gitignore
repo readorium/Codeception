@@ -1,3 +1,8 @@
 /vendor/
 
 tests/_output/*
+tests/_log/*
+tests/_temp/*
+composer.lock
+
+!.gitkeep
